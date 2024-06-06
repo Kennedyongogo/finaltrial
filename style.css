@@ -42,6 +42,7 @@ input[type=login] {
     width: 50%;
     padding: 5px;
     background-color: aqua;
+    cursor: pointer;
 }
 
 input[type=password] {
@@ -50,12 +51,14 @@ input[type=password] {
     border: none;
     padding: 5px;
     margin-bottom: 3px;
+    cursor: pointer;
 }
 input[type=text] {
     width: 300px;
     background-color: aqua;
     border: none;
     padding: 5px;
+    cursor: pointer;
 }
 
 section {
